@@ -1,6 +1,9 @@
 
 # Created by https://www.gitignore.io/api/ruby,macos
 
+### Other files ###
+.idea
+
 ### macOS ###
 *.DS_Store
 .AppleDouble
@@ -73,7 +76,7 @@ build-iPhoneSimulator/
 
 # for a library or gem, you might want to ignore these files since the code is
 # intended to run in multiple environments; otherwise, check them in:
-# Gemfile.lock
+Gemfile.lock
 # .ruby-version
 # .ruby-gemset
 

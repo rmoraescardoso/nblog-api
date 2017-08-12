@@ -3,7 +3,7 @@ development:
         default:
             database: nblog-dev
             hosts:
-                - 'ds125623.mlab.com:25623'
+                - 'ds113630.mlab.com:13630'
             options:
                 user: dev-app
                 password: dev#123
