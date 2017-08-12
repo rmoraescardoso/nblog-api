@@ -3,6 +3,7 @@
 
 ### Other files ###
 .idea
+unit_tests.xml
 
 ### macOS ###
 *.DS_Store
